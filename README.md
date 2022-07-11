@@ -6,7 +6,7 @@ Build smart contracts to automate the institutions’ financial processes and fe
 - A folder named Execution_Results that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the JointSavings functionality in the JavaScript VM, worked as expected.
 
 # Technologies
-Solidity
+Remix IDE Solidity
 
 # Instructions
 - Create a Joint Savings Account Contract in Solidity
