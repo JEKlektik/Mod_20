@@ -7,6 +7,7 @@ Build smart contracts to automate the institutions’ financial processes and fe
 
 # Technologies
 Remix IDE Solidity
+![](https://github.com/JEKlektik/Mod_20/blob/c62ec70615d1bc29c86e53e7442869d05bf91f93/Screen%20Shot%202022-07-10%20at%205.33.13%20PM.png)
 
 # Instructions
 - Create a Joint Savings Account Contract in Solidity
